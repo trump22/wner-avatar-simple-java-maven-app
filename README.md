@@ -1,0 +1,1 @@
+# wner-avatar-simple-java-maven-app
